@@ -19,7 +19,7 @@
 				formats : [
 					{
 						length: 15,
-						format: 'xxxx xxxxxxx xxxx'
+						format: 'xxxx xxxxxx xxxxx'
 					}
 				]
 			}, {
