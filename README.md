@@ -3,7 +3,7 @@ jQuery library that transforms credit card numbers via aesthetic formatting base
 
 ## Examples
 User inputs credit card number: **371449635398431** (American Express)  
-Result: **3714 4963539 8431**  
+Result: **3714 496353 98431**  
 
 User inputs credit card number: **4111111111111111** (Visa)  
 Result: **4111 1111 1111 1111**  
